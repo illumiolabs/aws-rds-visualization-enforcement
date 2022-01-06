@@ -3,8 +3,7 @@
 ## Status
 
 IMPORTANT: This repository is no longer under active maintenance. If you are
-interested in integrating an Illumio ASP with a cloud provider, please see Illumio 
-CloudSecure(https://www.illumio.com/products/cloudsecure).
+interested in securing your cloud environment please see [Illumio CloudSecure](https://www.illumio.com/products/cloudsecure).
 
 **Project Description**
 
